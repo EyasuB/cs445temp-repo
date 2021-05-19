@@ -6,5 +6,5 @@
 1. ![git clone](https://github.com/EyasuB/cs445temp-repo/blob/main/2021-05-19%20(5).png) 
 2. ![git remote](https://github.com/EyasuB/cs445temp-repo/blob/main/2021-05-19%20(7).png)
 3. ![git push](https://github.com/EyasuB/cs445temp-repo/blob/main/2021-05-19%20(8).png)
-4. ![git fetch]()
-5. ![git pull]()
+4. ![git fetch](https://github.com/EyasuB/cs445temp-repo/blob/main/2021-05-19%20(11).png)
+5. ![git pull](https://github.com/EyasuB/cs445temp-repo/blob/main/2021-05-19%20(12).png)
